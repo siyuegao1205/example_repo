@@ -61,9 +61,4 @@ ggplot(la_df, aes(x = abs_norm)) + geom_histogram()
 Here's a list:
 
 *   Item 1
-
 *   Item 2
-
-    * Item 2a
-
-    * Item 2b
