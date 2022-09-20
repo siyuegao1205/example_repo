@@ -3,7 +3,7 @@ title: "Simple document"
 output: github_document
 ---
 
-```{r, echo = FALSE, mesaage = FALSE}
+```{r, echo = FALSE, message = FALSE}
 library(tidyverse)
 ```
 
